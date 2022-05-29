@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HerokuTestPostgreSQL</string>
+    <!-->ВЫВОДЫ НА LAYOUT</-->
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="registration">Регистрация</string>
+    <string name="autologin">Запомнить</string>
+    <string name="enter">Войти</string>
+    <string name="email">email почта</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
